@@ -1,7 +1,7 @@
-view
+view (react)
 
 - logicには返さない（全てlogicで受け取って描画するだけ。ユーザーのイベントも)
-- object
+- DOMObject
   - plane
     - move
   - coin
@@ -24,12 +24,6 @@ logic
   - shop
   - sponsor
   - plane
-    - {int} speed
-    - {int} earningPower
-    - earn()
-    - run()
-    - stop()
-    - merge(anotherPlane)
 
 
 
