@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import Airplane from './component/Airplane';
 
+import './logic/index';
+
 class App extends Component {
   render() {
     return (
